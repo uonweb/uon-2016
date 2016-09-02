@@ -15,14 +15,3 @@
       </div><!-- END: div.widget-inner -->
     </div><!-- END: div.js-tablet-feature1 -->
 </div><!-- END: div.row-content-area -->
-<script>
-// (function($){
-
-//   $('#degree-search').submit(function(){
-
-//     $(this).attr('action','/degrees#filter-keywords='+$('#degree-keywords').val());
-
-//   });
-
-// })(jQuery);
-</script>
